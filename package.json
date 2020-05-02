@@ -1,0 +1,24 @@
+{
+  "name": "deploy-diary",
+  "version": "0.0.1",
+  "description": "Tool to generate changelogs and track deployments",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rosswilson/deploy-diary.git"
+  },
+  "keywords": [
+    "deployment",
+    "changelog",
+    "lambda"
+  ],
+  "author": "Ross Wilson <me@rosswilson.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rosswilson/deploy-diary/issues"
+  },
+  "homepage": "https://github.com/rosswilson/deploy-diary#readme"
+}
